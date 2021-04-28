@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="org.sample.Failure"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="org.sample.Tasktng">
+        <methods>
+          <include name="beforeDate"/>
+          <include name="launch"/>
+          <include name="quit"/>
+          <include name="demo"/>
+          <include name="afterDate"/>
+        </methods>
+      </class> <!-- org.sample.Tasktng -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

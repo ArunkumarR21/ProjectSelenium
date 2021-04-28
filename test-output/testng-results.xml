@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50356" started-at="2021-04-23T04:33:36Z" finished-at="2021-04-23T04:34:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50356" started-at="2021-04-23T04:33:36Z" finished-at="2021-04-23T04:34:27Z">
+      <class name="org.sample.Datapro">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.sample.Datapro@239963d8]" name="launch" is-config="true" duration-ms="13953" started-at="2021-04-23T04:34:06Z" finished-at="2021-04-23T04:34:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="adatin(java.lang.String, java.lang.String)[pri:0, instance:org.sample.Datapro@239963d8]" name="adatin" duration-ms="620" started-at="2021-04-23T04:34:20Z" data-provider="res" finished-at="2021-04-23T04:34:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adatin -->
+        <test-method status="PASS" signature="beforeDate()[pri:0, instance:org.sample.Datapro@239963d8]" name="beforeDate" is-config="true" duration-ms="0" started-at="2021-04-23T04:34:20Z" finished-at="2021-04-23T04:34:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeDate -->
+        <test-method status="PASS" signature="beforeDate()[pri:0, instance:org.sample.Datapro@239963d8]" name="beforeDate" is-config="true" duration-ms="0" started-at="2021-04-23T04:34:21Z" finished-at="2021-04-23T04:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeDate -->
+        <test-method status="PASS" signature="afterDate()[pri:0, instance:org.sample.Datapro@239963d8]" name="afterDate" is-config="true" duration-ms="0" started-at="2021-04-23T04:34:21Z" finished-at="2021-04-23T04:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterDate -->
+        <test-method status="PASS" signature="adatin(java.lang.String, java.lang.String)[pri:0, instance:org.sample.Datapro@239963d8]" name="adatin" duration-ms="712" started-at="2021-04-23T04:34:21Z" data-provider="res" finished-at="2021-04-23T04:34:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bala]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ede@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adatin -->
+        <test-method status="PASS" signature="beforeDate()[pri:0, instance:org.sample.Datapro@239963d8]" name="beforeDate" is-config="true" duration-ms="0" started-at="2021-04-23T04:34:21Z" finished-at="2021-04-23T04:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeDate -->
+        <test-method status="PASS" signature="adatin(java.lang.String, java.lang.String)[pri:0, instance:org.sample.Datapro@239963d8]" name="adatin" duration-ms="833" started-at="2021-04-23T04:34:21Z" data-provider="res" finished-at="2021-04-23T04:34:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sinc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[teseddd@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adatin -->
+        <test-method status="PASS" signature="afterDate()[pri:0, instance:org.sample.Datapro@239963d8]" name="afterDate" is-config="true" duration-ms="0" started-at="2021-04-23T04:34:21Z" finished-at="2021-04-23T04:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterDate -->
+        <test-method status="PASS" signature="adatin(java.lang.String, java.lang.String)[pri:0, instance:org.sample.Datapro@239963d8]" name="adatin" duration-ms="808" started-at="2021-04-23T04:34:22Z" data-provider="res" finished-at="2021-04-23T04:34:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raded]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tesssst@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adatin -->
+        <test-method status="PASS" signature="afterDate()[pri:0, instance:org.sample.Datapro@239963d8]" name="afterDate" is-config="true" duration-ms="0" started-at="2021-04-23T04:34:22Z" finished-at="2021-04-23T04:34:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterDate -->
+        <test-method status="PASS" signature="beforeDate()[pri:0, instance:org.sample.Datapro@239963d8]" name="beforeDate" is-config="true" duration-ms="0" started-at="2021-04-23T04:34:22Z" finished-at="2021-04-23T04:34:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeDate -->
+        <test-method status="PASS" signature="adatin(java.lang.String, java.lang.String)[pri:0, instance:org.sample.Datapro@239963d8]" name="adatin" duration-ms="1330" started-at="2021-04-23T04:34:23Z" data-provider="res" finished-at="2021-04-23T04:34:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rad]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tesssst@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adatin -->
+        <test-method status="PASS" signature="beforeDate()[pri:0, instance:org.sample.Datapro@239963d8]" name="beforeDate" is-config="true" duration-ms="0" started-at="2021-04-23T04:34:23Z" finished-at="2021-04-23T04:34:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeDate -->
+        <test-method status="PASS" signature="afterDate()[pri:0, instance:org.sample.Datapro@239963d8]" name="afterDate" is-config="true" duration-ms="0" started-at="2021-04-23T04:34:23Z" finished-at="2021-04-23T04:34:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterDate -->
+        <test-method status="PASS" signature="afterDate()[pri:0, instance:org.sample.Datapro@239963d8]" name="afterDate" is-config="true" duration-ms="1" started-at="2021-04-23T04:34:24Z" finished-at="2021-04-23T04:34:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterDate -->
+        <test-method status="PASS" signature="beforeDate()[pri:0, instance:org.sample.Datapro@239963d8]" name="beforeDate" is-config="true" duration-ms="0" started-at="2021-04-23T04:34:24Z" finished-at="2021-04-23T04:34:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeDate -->
+        <test-method status="PASS" signature="adatin(java.lang.String, java.lang.String)[pri:0, instance:org.sample.Datapro@239963d8]" name="adatin" duration-ms="817" started-at="2021-04-23T04:34:24Z" data-provider="res" finished-at="2021-04-23T04:34:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raserf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adatin -->
+        <test-method status="PASS" signature="afterDate()[pri:0, instance:org.sample.Datapro@239963d8]" name="afterDate" is-config="true" duration-ms="0" started-at="2021-04-23T04:34:25Z" finished-at="2021-04-23T04:34:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterDate -->
+        <test-method status="PASS" signature="beforeDate()[pri:0, instance:org.sample.Datapro@239963d8]" name="beforeDate" is-config="true" duration-ms="0" started-at="2021-04-23T04:34:25Z" finished-at="2021-04-23T04:34:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeDate -->
+        <test-method status="PASS" signature="adatin(java.lang.String, java.lang.String)[pri:0, instance:org.sample.Datapro@239963d8]" name="adatin" duration-ms="856" started-at="2021-04-23T04:34:25Z" data-provider="res" finished-at="2021-04-23T04:34:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raded]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tesssst@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adatin -->
+        <test-method status="PASS" signature="afterDate()[pri:0, instance:org.sample.Datapro@239963d8]" name="afterDate" is-config="true" duration-ms="1" started-at="2021-04-23T04:34:26Z" finished-at="2021-04-23T04:34:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterDate -->
+        <test-method status="PASS" signature="quit1()[pri:0, instance:org.sample.Datapro@239963d8]" name="quit1" is-config="true" duration-ms="643" started-at="2021-04-23T04:34:26Z" finished-at="2021-04-23T04:34:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit1 -->
+      </class> <!-- org.sample.Datapro -->
+      <class name="org.sample.Demo">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.sample.Demo@f6c48ac]" name="launch" is-config="true" duration-ms="6077" started-at="2021-04-23T04:33:36Z" finished-at="2021-04-23T04:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="demo()[pri:0, instance:org.sample.Demo@f6c48ac]" name="demo" duration-ms="6761" started-at="2021-04-23T04:33:43Z" finished-at="2021-04-23T04:33:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="beforeDate()[pri:0, instance:org.sample.Demo@f6c48ac]" name="beforeDate" is-config="true" duration-ms="0" started-at="2021-04-23T04:33:43Z" finished-at="2021-04-23T04:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeDate -->
+        <test-method status="PASS" signature="afterDate()[pri:0, instance:org.sample.Demo@f6c48ac]" name="afterDate" is-config="true" duration-ms="0" started-at="2021-04-23T04:33:49Z" finished-at="2021-04-23T04:33:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterDate -->
+        <test-method status="PASS" signature="quit1()[pri:0, instance:org.sample.Demo@f6c48ac]" name="quit1" is-config="true" duration-ms="642" started-at="2021-04-23T04:33:49Z" finished-at="2021-04-23T04:33:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit1 -->
+      </class> <!-- org.sample.Demo -->
+      <class name="org.sample.Adatin">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.sample.Adatin@13deb50e]" name="launch" is-config="true" duration-ms="13956" started-at="2021-04-23T04:33:50Z" finished-at="2021-04-23T04:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="login()[pri:0, instance:org.sample.Adatin@13deb50e]" name="login" duration-ms="1636" started-at="2021-04-23T04:34:04Z" finished-at="2021-04-23T04:34:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="beforeDate()[pri:0, instance:org.sample.Adatin@13deb50e]" name="beforeDate" is-config="true" duration-ms="0" started-at="2021-04-23T04:34:04Z" finished-at="2021-04-23T04:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeDate -->
+        <test-method status="PASS" signature="afterDate()[pri:0, instance:org.sample.Adatin@13deb50e]" name="afterDate" is-config="true" duration-ms="1" started-at="2021-04-23T04:34:06Z" finished-at="2021-04-23T04:34:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterDate -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:org.sample.Adatin@13deb50e]" name="quit" is-config="true" duration-ms="666" started-at="2021-04-23T04:34:06Z" finished-at="2021-04-23T04:34:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- org.sample.Adatin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
